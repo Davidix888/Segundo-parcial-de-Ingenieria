@@ -1,0 +1,13 @@
+¿Qué es GIT?
+Git es un programa que no permite poder trabajar de manera eficiente con otras personas, en ramas y subir los cambios que realizemos
+¿Qué es un pull request?
+Un pull request es una solicitud en la cual la persona que esta trabajando la rama fusiona la rama que trabaja con la del repositorio local
+¿Qué es un commit?
+Un commit es cuando se guardan los cambios realizados en un repositorio local
+¿GIT y GitHub es lo mismo? Explique
+Github y Git no son lo mismos debido a que Git es un sistema que controla las versiones de un codigo mientras que Github es una herramienta
+en la cual se da una interfaz de usuario y herramientas adicionales para trabajar.
+¿Que es un scrum?
+Es un conjunto de buenas practicas para trabajar de manera colaborativa.
+¿Para qué sirve una metodología ágil de desarrollo?
+La metodologia agil de desarrollo es para poder llevar a cabo proyectos de manera rapido y eficaz.
